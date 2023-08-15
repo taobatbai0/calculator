@@ -42,7 +42,7 @@ form .display{
 form .display input{
     text-align: end;
     flex: 1;
-    font-size: 45px;
+    font-size: 35px;
     box-shadow: none;
 }
 
